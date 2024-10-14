@@ -7,7 +7,7 @@ header:
 
 <img src="https://gamicna.github.io/assets/images/foto_puente_800x600.png" width="250">{: .align-center}
 
-[Resume](https://gamicna.github.io/cv/){: .btn .btn--info} [Portfolio](https://gamicna.github.io/portfolio/){: .btn .btn--info} [LinkedIn](https://www.linkedin.com/in/chriskhanhtran/){: .btn .btn--info}
+[Resume](https://gamicna.github.io/cv/){: .btn .btn--info} [Portfolio](https://gamicna.github.io/portfolio/){: .btn .btn--info} [LinkedIn](https://www.linkedin.com/in/gaid-michael-navia-lara-46785ba2/){: .btn .btn--info}
 {: .text-center}
 
 ## Career Objectives
