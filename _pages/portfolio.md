@@ -9,7 +9,7 @@ toc_icon: "bookmark"
 *Updated: 14/10/2024*
 
 ***
-# Business intelligence plan aimed at user loyalty on an Electronic Commerce platform
+# From Raw Data to Actionable Insights Customer Loyalty Analysis for an Electronic Commerce platform
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/GaMicNa/From-Raw-Data-to-Actionable-Insights-Customer-Loyalty-Analysis-for-Retail.git)         
 [Data](https://www.kaggle.com/datasets/zusmani/pakistans-largest-ecommerce-dataset) | [Handout](https://github.com/GaMicNa/RETAIL-E-COMMERCE-LOYALTY/blob/master/05_PDF/00_RETAIL%20E-COMERCE%20LOYALTY_.pdf) | [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYWM2NzlhOGMtM2E5Mi00NGQyLThlYmUtOTgyZGJmMTBmY2VmIiwidCI6ImFmZTk4ODE3LWViZTgtNDNhYi04YWRlLWJjMGEyOGNiNTlmYyIsImMiOjR9)
@@ -19,7 +19,7 @@ In order to present a business intelligence plan for the digital platform of Ele
 
 ***
 
-# Mapping Economic Similarities: Year Classification Based on Economic Inflation Indicators - ML
+# Mapping Bolivia's Economic Similarities: Year Classification Based on Economic Inflation Indicators - ML
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/GaMicNa/Mapping-Bolivia-s-Historical-Economic-Similarities-Year-Classification-Using-Machine-Learning.git)         
 [Data Analysis](https://github.com/GaMicNa/Mapping-Bolivia-s-Historical-Economic-Similarities-Year-Classification-Using-Machine-Learning/blob/127a3875686325e5481e9fae6a6f2b294d57ff9c/01_CLUSTERING%20ANALYSIS/01_CLUSTERING%20ANALYSIS.ipynb) | [Handout](https://github.com/GaMicNa/Mapping-Bolivia-s-Historical-Economic-Similarities-Year-Classification-Using-Machine-Learning/blob/da3544d86ca9e37fd471f19e52add36fca68a982/04_DOC/DOC_MESBOL.pdf) | [Dashboard](https://public.tableau.com/views/INFOGRAM_MESBOL/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link&:device=desktop)
