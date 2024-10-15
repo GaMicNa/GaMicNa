@@ -1,8 +1,8 @@
 ---
-#title: "About"
-#redirect_to:
-#  - https://GaMicNa.github.io/about/
+title: "About"
+redirect_to:
+  - https://GaMicNa.github.io/about/
 
-layout: home
-author_profile: true
+#layout: home
+#author_profile: true
 ---

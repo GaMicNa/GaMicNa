@@ -43,7 +43,7 @@ This project models the operations of a salteñas (***very delicius and bolivian
 
 
 
-<img src="\assets\images\portfolio\saltenias.png"/>
+<img src="\assets\images\portfolio\Saltenias.png"/>
 
 
 ***
