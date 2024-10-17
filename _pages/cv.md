@@ -20,6 +20,7 @@ toc_icon: "bookmark"
 ***Database manager - Line Consultant***
 
 *October 2018 - June 2024, Cochabamba, Bol*
+
 As a member of the hydrological and hydrometric research team at the National Electricity Company, I led the water and sediment quality unit. By making data-driven decisions, I reduced data collection costs by 65% and doubled team productivity through the systematization of data storage processes.
 -	Analyzed the consistency and coherence of 12 types of hydrological data collected from 43 monitoring sites at 5-minute intervals, enabling data-driven decisions for the maintenance and calibration of stations. 
 -	Supported the analysis of hydrological and hydraulic modeling by evaluating the existing dataset and applying machine learning techniques to identify the most critical parameters for assessing water quality. This process led to a 70% reduction in the number of parameters required for laboratory analysis, significantly cutting costs and enhancing the efficiency of water quality evaluations.
