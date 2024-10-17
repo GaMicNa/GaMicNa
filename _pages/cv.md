@@ -20,12 +20,15 @@ toc_icon: "bookmark"
 ***Database manager - Line Consultant***
 
 *October 2018 - June 2024, Cochabamba, Bol*
-
-- Cleaning, standardization, administration, analysis and generation of results from water levels database.
-- Compilation, analysis and systematization of the available hydrometeorological database and data collected in the field.
-- Support obtaining, analyzing data and secondary information related to physical factors or aquatic ecosystems, necessary for the studies, among others upon request.
-- Support the analysis of information for hydrological and hydraulic modeling.
-- Support in water quality supervision activities to companies contracted by ENDE in sites identified with potential for hydroelectric use for the Project or others upon request.
+As a member of the hydrological and hydrometric research team at the National Electricity Company, I led the water and sediment quality unit. By making data-driven decisions, I reduced data collection costs by 65% and doubled team productivity through the systematization of data storage processes.
+-	Analyzed the consistency and coherence of 12 types of hydrological data collected from 43 monitoring sites at 5-minute intervals, enabling data-driven decisions for the maintenance and calibration of stations. 
+-	Supported the analysis of hydrological and hydraulic modeling by evaluating the existing dataset and applying machine learning techniques to identify the most critical parameters for assessing water quality. This process led to a 70% reduction in the number of parameters required for laboratory analysis, significantly cutting costs and enhancing the efficiency of water quality evaluations.
+-	Systematized the water quality database and developed a dashboard that synthesized the behavior of water quality indicators and sampling frequencies. This innovation allowed for up to a 200% increase in data collection frequency in under-sampled areas, significantly improving data coverage and the accuracy of environmental monitoring.
+-	Standardized field sampling procedures, resulting in a 100% increase in the accuracy of data collected. This improvement ensured higher data reliability and consistency, which enhanced the quality of subsequent analyses and environmental assessments.
+-	Streamlined the water levels database by implementing thorough cleaning, standardization, and administration processes, reducing the time required for analysis and report generation by 50%.
+-	Designed and created the water and sediment quality database from the ground up, compiling, systematizing, and analyzing data. This foundational work enabled efficient data management and ongoing analysis, ensuring data integrity and improving the accuracy of environmental assessments.
+-	Trained and expanded the technical data collection team to 12 employees, enhancing operational capacity and ensuring adherence to best practices in water quality monitoring.
+-	Developed and implemented water quality data collection protocols, ensuring consistency and accuracy in field operations, which improved data reliability across campaigns.
 - Relevant Technology/Area used:
 PostgreSQL
 Python
@@ -77,7 +80,6 @@ Understanding and application of probabilistic models, statistical inference, hy
 testing, and data analysis. Numerical methods.
 - **Soft Skills:** 
   - Interest in learning new knowledge and self-learning.
-  - Adaptability and perseverance.
-  - Proactive.
-  - Analytical Abilities.
-  - Critical thinking.
+  - Resilience and flexibility in dynamic environments.
+  - Analytical mindset and problem-solving acumen.
+
